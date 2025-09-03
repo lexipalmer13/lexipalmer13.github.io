@@ -7,6 +7,21 @@ author_profile: true
 
 &nbsp;
 
+<ins>Tulane University</ins>
+
+**Scope and Methods of Political Science** Undergraduate
+*Fall 2025*
+
+<ins>Dartmouth College</ins>
+
+**Persuasion and Propaganda: Information Control in Autocracies and Democracies** Undergraduate\
+*Spring 2025*\
+[Syllabus](https://www.dropbox.com/scl/fi/cvvozjr0kqqqegvjvpe8r/Prop_Syllabus_Spring25_update3.pdf?rlkey=07dgz9cbkpvzbxtaizq36c243&st=cqqfvgl4&dl=0)
+[Course Evaulations](https://www.dropbox.com/scl/fi/k4y7h4vc9eowvmyr2y1ar/Faculty-Analytics-V.pdf?rlkey=rv92az8msu502q2bnrghd99w6&st=vkkt3o5m&dl=0)
+
+
+<ins>New York University</ins>
+
 **Comparative Politics** Undergraduate, NYU Politics\
 *for Gwyneth McClendon, Spring 2024*\
 [Course Evaulations](https://www.dropbox.com/scl/fi/uce57b26l3kms0nz03gmp/comparative_S24.pdf?rlkey=wzvz9k9dq8bgudshg0fol58sb&dl=0){:target="_blank"}{:rel="noopener noreferrer"}

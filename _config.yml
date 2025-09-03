@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexis Palmer"
 title_separator          : "-"
 name                     : &name "Alexis Palmer"
-description              : &description "PhD Student at NYU"
+description              : &description "Assistant Professor at Tulane University"
 url                      : https://lexipalmer13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lexipalmer13/lexipalmer13.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexis (Lexi) Palmer"
   avatar           : "forced_photo.jpg"
-  bio              : "PhD Student at NYU"
-  location         : "New York, New York"
+  bio              : "Assistant Professor at Tulane University"
+  location         : "New Orleans, Louisiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ap6100@nyu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=xDWOAvsAAAAJ&hl=en"
+  email            : "apalmer@tulane.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
