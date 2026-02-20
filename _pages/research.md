@@ -62,7 +62,7 @@ As many countries note declining trust in government institutions, the academic 
 &nbsp;
 
 "Why Are Citizens So Cynical? And About What?"
-*With Gwyneth McClendon*
+*With Gwyneth McClendon* (Under Review)
 <details>
   <summary>Abstract</summary>
   
@@ -122,6 +122,8 @@ Other Publications
 
 
 "Using proprietary language models in academic research requires explicit justification." *Natural Computational Science* (2023) [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) With Arthur Spirling and Noah Smith.
+
+"Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research." *Political Communication* (2026) [https://doi.org/10.1080/10584609.2026.2618486](https://doi.org/10.1080/10584609.2026.2618486) With Paul Balluff, Justin Chun-ting Ho, Johannes B. Gruber, Sean Palicki, Luca Rossi, Irina Shklovski, and Chung-hong Chan. 
 
 
 &nbsp;

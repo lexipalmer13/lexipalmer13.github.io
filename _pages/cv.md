@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-The most recent version of my CV can be found [here](https://www.dropbox.com/scl/fi/ha79pan1u9ikcrbh77xn5/Palmer_CV.pdf?rlkey=zbmfv9oymkop4l8n9jaaivi5l&st=ozi64rpm&dl=0){:target="_blank"}{:rel="noopener noreferrer"}.
+The most recent version of my CV can be found [here](https://www.dropbox.com/scl/fi/y3vhdnxxlglv16ygn7go9/Palmer_CV.pdf?rlkey=jomx29mg9pz92nygikqr6rvsf&st=e9y1ezn8&dl=0){:target="_blank"}{:rel="noopener noreferrer"}.
 
 
 <!--<embed src="lexipalmer13.github.io/files/Palmer_CV.pdf" width="400" height="600" type='application/pdf'> -->
