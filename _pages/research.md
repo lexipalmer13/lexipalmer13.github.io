@@ -50,13 +50,14 @@ Excitement about Language Models (LMs) abounds: these generative tools require m
 
 &nbsp;
 
-"Stories of Success: Narrative Propaganda in Kenya"
+"Stories for Success: Narrative Propaganda about Government Agencies in Kenya and the United States"
+(Under Review)
 
-[Draft](https://www.dropbox.com/scl/fi/o790kuxi5tp7wxalotdtd/draft_may24.pdf?rlkey=gaomr4n1vf6wia7opxge0hwnu&dl=0)
+[Draft](https://www.dropbox.com/scl/fi/9adcw3oyi5297xniigo74/draft_apr26.pdf?rlkey=8x9zu03h8d8we2wyyvfm1ku6h&st=9lmxl2ro&dl=0)
 <details>
   <summary>Abstract</summary>
   
-As many countries note declining trust in government institutions, the academic and public discussion has largely focused on the connection between trust and government performance. However, many governments and institutions use other strategies to build trust, including storytelling. Rather than improving government performance or procedures, telling a story (following a rising action-climax-falling action format) can increase empathy towards government representatives and a more positive a ect towards institutions. I use the case of the main investigative police service in Kenya, the Directorate of Criminal Investigations, which has been sharing stories of their cases on Twitter as a way to build trust in the police. Using sentiment classi cation, I show that people who follow these stories (rather than straightforward reports of similar police actions) write more positively about the police. I also use data from a survey experiment in Kenya to demonstrate that structuring information as a story increases audience belief that the relevant actors can be trusted. Finally, I compare the e ects of a story with elements of procedural justice to establish this strategy is at least as e ective as shifting opinions about performance at building trust. This project contributes to our understanding of how trust develops and the e ect of structure as compared to content.
+Much of the work on democratic communication focuses on what facts citizens learn about the government, but \textit{how} citizens interpret information can be equally important. I test one mode of shifting audience perception while holding information constant: storytelling. I argue that narratives with an exposition-climax-resolution format increase empathy towards government representatives and create more positive affect towards institutions. I test this using stories about three agencies in two countries. Observational data from a Kenyan police department that posts case stories on Twitter shows that more ``story-like" narratives garner more positive replies. Survey experiments in Kenya and the U.S. show that telling a story about a contentious decision by police, the DMV, or a fire department increases empathy and trust towards officials---including beliefs that officials were honest---compared to straightfoward presentations of the same information. This ability to build trust through careful presentation has important implications for democratic accountability.
 </details>
 
 &nbsp;
