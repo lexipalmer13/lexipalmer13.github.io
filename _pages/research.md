@@ -22,7 +22,7 @@ Though there has been a wealth of work showing that negative experiences with go
 &nbsp;
 
 "Large Language Models Can Argue in Convincing and Novel Ways About Politics"  *Political Science* (2024) [https://doi.org/10.1080/00323187.2024.2335471](https://doi.org/10.1080/00323187.2024.2335471)
-With Arthur Spirling.
+*with Arthur Spirling.*
 [Github](https://github.com/ArthurSpirling/LargeLanguageArguments)
 
 <details>
@@ -33,14 +33,7 @@ All politics relies on rhetorical appeals, and the ability to make arguments is 
 
 &nbsp;
 
-&nbsp;
-
- Working Papers
-======
-
-***
-
-"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie* (Conditional Accept at AJPS)
+"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie.* (Conditional Accept at *AJPS*)
 [Draft](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 <details>
   <summary>Abstract</summary>
@@ -50,9 +43,13 @@ Excitement about Language Models (LMs) abounds: these generative tools require m
 
 &nbsp;
 
+ Working Papers
+======
+
+***
+
 "Stories for Success: Narrative Propaganda about Government Agencies in Kenya and the United States"
 (Under Review)
-
 [Draft](https://www.dropbox.com/scl/fi/9adcw3oyi5297xniigo74/draft_apr26.pdf?rlkey=8x9zu03h8d8we2wyyvfm1ku6h&st=sxrhba7r&dl=0)
 <details>
   <summary>Abstract</summary>
@@ -63,7 +60,7 @@ Much of the work on democratic communication focuses on what facts citizens lear
 &nbsp;
 
 "Why Are Citizens So Cynical? And About What?"
-*With Gwyneth McClendon* (Under Review)
+*with Gwyneth McClendon* (Under Review)
 <details>
   <summary>Abstract</summary>
   
@@ -74,7 +71,6 @@ Observers have remarked that cynicism about politics—the belief that political
 
 
 "How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Under Review)
-
 [Draft](https://www.dropbox.com/scl/fi/jq9v1bfpknnstj2qc2oam/draft_anon.pdf?rlkey=tdhgaud3517l6lbnc3w3yfh3i&st=495ptii3&dl=0)
 <details>
   <summary>Abstract</summary>
