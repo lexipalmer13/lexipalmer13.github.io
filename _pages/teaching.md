@@ -9,8 +9,18 @@ author_profile: true
 
 <ins>Tulane University</ins>
 
-**Scope and Methods of Political Science** Undergraduate
-*Fall 2025*
+**Quantitative Methods I** Graduate\
+*Fall 2026*
+
+**Data Science in Politics** Undergraduate\
+*Spring 2026*\
+[Syllabus](https://www.dropbox.com/scl/fi/bg75jmgqie67qsb5xerpr/Data-Science-in-Politics-Syllabus-Spring-2026_v2.docx?rlkey=a3zkuus1e9ildjmamj5emofij&st=ll9m90j1&dl=0)
+[Course Evaulations](https://www.dropbox.com/scl/fi/uhdyeboz21tv0g4kj778a/psds_S26.pdf?rlkey=vgc3wdwvoixevnm51z4iknhyb&st=deqxn0nv&dl=0)
+
+**Scope and Methods of Political Science** Undergraduate\
+*Fall 2025*\
+[Syllabus](https://www.dropbox.com/scl/fi/naxzbs68iap3hdpz5io0w/Fall-25-Scope-and-Methods-of-Political-Science.docx?rlkey=p2qt8mxxmuk0rirzp007pr1i1&st=3mfxklph&dl=0)
+[Course Evaulations](https://www.dropbox.com/scl/fi/g6bb39fjbaz5zedx0b9b0/scopeF25.pdf?rlkey=b82uhfziobxai8spwfffxq9s5&st=t4zs4wvz&dl=0)
 
 <ins>Dartmouth College</ins>
 

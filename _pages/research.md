@@ -40,7 +40,7 @@ All politics relies on rhetorical appeals, and the ability to make arguments is 
 
 ***
 
-"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie* (Revise and Resubmit)
+"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie* (Conditional Accept at AJPS)
 [Draft](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 <details>
   <summary>Abstract</summary>
@@ -53,7 +53,7 @@ Excitement about Language Models (LMs) abounds: these generative tools require m
 "Stories for Success: Narrative Propaganda about Government Agencies in Kenya and the United States"
 (Under Review)
 
-[Draft](https://www.dropbox.com/scl/fi/9adcw3oyi5297xniigo74/draft_apr26.pdf?rlkey=8x9zu03h8d8we2wyyvfm1ku6h&st=9lmxl2ro&dl=0)
+[Draft](https://www.dropbox.com/scl/fi/9adcw3oyi5297xniigo74/draft_apr26.pdf?rlkey=8x9zu03h8d8we2wyyvfm1ku6h&st=sxrhba7r&dl=0)
 <details>
   <summary>Abstract</summary>
   
@@ -73,11 +73,13 @@ Observers have remarked that cynicism about politics—the belief that political
 &nbsp;
 
 
-"Books vs Bullets: Measuring Rebel-Provided Services"
+"How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Under Review)
+
+[Draft](https://www.dropbox.com/scl/fi/jq9v1bfpknnstj2qc2oam/draft_anon.pdf?rlkey=tdhgaud3517l6lbnc3w3yfh3i&st=495ptii3&dl=0)
 <details>
   <summary>Abstract</summary>
   
-Despite the growing literature on rebel governance, the difficulty in obtaining reliable data during active conflicts has limited our understanding of internal variation in governance and service provision. This paper uses a within household cohort design drawn from DHS reporting of educational attainment to look at service provision by the Fources Nouvelles in Cote d’Ivoire. This measure if validated by existing surveys on service provision. I test several existing theories around service provision which have contrasting predictions in the current literature, and show that the patterns of provision in this case on consistent with a group focused on building long term, inclusive civilian support rather than short term resource gathering. 
+Much of the work in natural language processing focuses on the *content* of documents. However, the *structure* or order in which information is presented in text, may also impact both what audiences learn and how they interpret that information. I develop a method to measure one such form of document structure: a story. I show that this measurement is accurate and reliable with respect to both interim coding and the final score produced. I demonstrate several applications in political science: who is more likely to tell a story on the Congress floor and how audiences react to stories from the government on Twitter. Though this paper focuses on the application to storytelling, the method can be applied to any well-defined document structure. Further, this measurement approach is both transparent and replicable.
 </details>
 
 &nbsp;
@@ -89,17 +91,6 @@ Works in Progress
 ======
 
 ***
-
-
-
-"How to Use Masked Language Models to Classify Narrative Structure in Political Texts"
-<details>
-  <summary>Abstract</summary>
-  
-This paper develops an original method for classifying the latent structure of a piece of text using a Masked Language Model to classify the similarity of component parts and then scoring documents by the overall ordering of each category. Though there is a wealth of work categorizing text based on its topic and tone, there is little methodology for sorting text by the way it is structured. This is despite the fact that anyone who speaks or writes thinks carefully about the best order in which to convey information and the subsequent impact on an audience. For instance, relating information as a story rather than in a straightforward man ner has been shown to be more persuasive and increase empathy. However, in contexts where time is limited or an audience is more skeptical, it may be best to lead with the main point. Being able to classify the structure of text will allow us to both understand how politicians convey information and the contexts in which this varies. The benefits of the method include that it can be used on short form documents, which are often more difficult to break into discrete parts, and each stage can be verified by an analyst rather than black-boxing what is being classified.
-</details>
-
-&nbsp;
 
 
 
