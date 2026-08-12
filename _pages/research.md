@@ -69,7 +69,7 @@ Observers have remarked that cynicism about politics—the belief that political
 &nbsp;
 
 
-"How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Revise and resubmit)
+"How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Revise and Resubmit)
 [Draft](https://www.dropbox.com/scl/fi/jq9v1bfpknnstj2qc2oam/draft_anon.pdf?rlkey=tdhgaud3517l6lbnc3w3yfh3i&st=13lt8be4&dl=0)
 <details>
   <summary>Abstract</summary>
