@@ -11,7 +11,7 @@ author_profile: true
 
 ***
 
-"Reform and Community Level Participation: The Overturn of SQF in New York City"  *Urban Affairs Review* (2024) [https://doi.org/10.1177/10780874241241266](https://doi.org/10.1177/10780874241241266)
+Palmer, Alexis. (2024). "Reform and Community Level Participation: The Overturn of SQF in New York City"  *Urban Affairs Review* [https://doi.org/10.1177/10780874241241266](https://doi.org/10.1177/10780874241241266)
 
 <details>
   <summary>Abstract</summary>
@@ -21,8 +21,7 @@ Though there has been a wealth of work showing that negative experiences with go
 
 &nbsp;
 
-"Large Language Models Can Argue in Convincing and Novel Ways About Politics"  *Political Science* (2024) [https://doi.org/10.1080/00323187.2024.2335471](https://doi.org/10.1080/00323187.2024.2335471)
-*with Arthur Spirling.*
+**Palmer, Alexis** and Arthur Spirling. (2024). "Large Language Models Can Argue in Convincing and Novel Ways About Politics"  *Political Science* [https://doi.org/10.1080/00323187.2024.2335471](https://doi.org/10.1080/00323187.2024.2335471)
 [Github](https://github.com/ArthurSpirling/LargeLanguageArguments)
 
 <details>
@@ -33,7 +32,7 @@ All politics relies on rhetorical appeals, and the ability to make arguments is 
 
 &nbsp;
 
-"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie.* (Conditional Accept at *AJPS*)
+Barrie, Chris, **Alexis Palmer**, and Arthur Spirling. (2026). "Replication for Language Models: Problems, Principles, and Best Practice for Political Science." (Conditional Accept at **AJPS**)
 [Draft](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 <details>
   <summary>Abstract</summary>
@@ -70,7 +69,7 @@ Observers have remarked that cynicism about politics—the belief that political
 &nbsp;
 
 
-"How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Under Review)
+"How to Use Masked Language Models to Classify Narrative Structure in Political Texts" (Revise and resubmit)
 [Draft](https://www.dropbox.com/scl/fi/jq9v1bfpknnstj2qc2oam/draft_anon.pdf?rlkey=tdhgaud3517l6lbnc3w3yfh3i&st=13lt8be4&dl=0)
 <details>
   <summary>Abstract</summary>
@@ -101,17 +100,31 @@ A robust literature outlines a vicious cycle between political corruption and a 
 
 &nbsp;
 
+"The Ideal Surveytaker Problem: Language Models and the Limits of Silicon Samples"
+<details>
+  <summary>Abstract</summary>
 
-Other Publications
+Among the many potential applications of language models in social science research, some researchers have posited models can be used to develop 'silicon samples' in conjunction with or even in place of surveying humans. Consistent problems with variance, bias, and subgroup effects suggest that using silicon samples for primary analysis is not representative of real human behavior. However, more promising may be the ability of models to aid in experiment design; designing new treatments, questions, and scales. I test this proposition on multiple unpublished datasets from two countries, the United States and Kenya. I show that in most applications, silicon samples misrepresent human data such that tasks like scale evaluation or power calculations are significantly different from real world populations. However, there are avenues within which models may still be helpful, such as adjudication between experimental interventions and identifying high quality survey responses.
+</details>
+
+&nbsp;
+
+
+Other Publications and Book Chapters
 ======
 
 ***
 
 
 
-"Using proprietary language models in academic research requires explicit justification." *Natural Computational Science* (2023) [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) With Arthur Spirling and Noah Smith.
+**Palmer, Alexis**, Noah Smith, and Arthur Spirling. (2024). "Using proprietary language models in academic research requires explicit justification." *Natural Computational Science.* [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) 
 
-"Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research." *Political Communication* (2026) [https://doi.org/10.1080/10584609.2026.2618486](https://doi.org/10.1080/10584609.2026.2618486) With Paul Balluff, Justin Chun-ting Ho, Johannes B. Gruber, Sean Palicki, Luca Rossi, Irina Shklovski, and Chung-hong Chan. 
+Balluff, Paul, Justin Chun-ting Ho, Johannes B. Gruber, Sean Palicki, **Alexis Palmer**, Luca Rossi, Irina Shklovski, and Chung-hong Chan. (2026). "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research." *Political Communication* [https://doi.org/10.1080/10584609.2026.2618486](https://doi.org/10.1080/10584609.2026.2618486) 
 
+McLoughlin, Killian L., **Alexis Palmer**, J. Nathan Matias, and M. J. Crockett. (2026) "Proprietary LLMs impede scientific transparency and reproducibility." *Nature Reviews Psychology.* [https://doi.org/10.1038/s44159-026-00593-8](https://doi.org/10.1038/s44159-026-00593-8)
+
+Barrie, Christopher, Lisa Argyle, James Bisbee, Michael Heseltine, Christopher Lucas, Jon Mellon, **Alexis Palmer**, Margaret Roberts, and Arthur Spirling. (2026) "AI and Research Methods." In N. Persily and J. Tucker (Eds.), *Artificial Intelligence, Politics, and Political Science.* (Forthcoming)
+
+Palmer, Alexis. (2026). "The Human Element in Social Science Research." In Rohan Alexander (Ed.), *Quantitative Social Science in the Age of AI.* (Forthcoming)
 
 &nbsp;

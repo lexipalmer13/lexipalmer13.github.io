@@ -9,9 +9,8 @@ redirect_from:
 
 
 
-The most recent version of my CV can be found [here](https://www.dropbox.com/scl/fi/y3vhdnxxlglv16ygn7go9/Palmer_CV.pdf?rlkey=jomx29mg9pz92nygikqr6rvsf&st=e9y1ezn8&dl=0){:target="_blank"}{:rel="noopener noreferrer"}.
+<iframe src="/CV/Palmer_CV.pdf" width="100%" height="900px" style="border:none;">
+  Your browser does not support embedded PDFs. Download it <a href="/CV/Palmer_CV.pdf">here</a>.
+</iframe>
 
-
-<!--<embed src="lexipalmer13.github.io/files/Palmer_CV.pdf" width="400" height="600" type='application/pdf'> -->
-
-Updated December 2025.
+Updated August 2026.
