@@ -11,7 +11,7 @@ author_profile: true
 
 ***
 
-Palmer, Alexis. (2024). "Reform and Community Level Participation: The Overturn of SQF in New York City"  *Urban Affairs Review* [https://doi.org/10.1177/10780874241241266](https://doi.org/10.1177/10780874241241266)
+Palmer, Alexis. (2024). "Reform and Community Level Participation: The Overturn of SQF in New York City"  *Urban Affairs Review.* [https://doi.org/10.1177/10780874241241266](https://doi.org/10.1177/10780874241241266)
 
 <details>
   <summary>Abstract</summary>
@@ -21,7 +21,7 @@ Though there has been a wealth of work showing that negative experiences with go
 
 &nbsp;
 
-**Palmer, Alexis** and Arthur Spirling. (2024). "Large Language Models Can Argue in Convincing and Novel Ways About Politics"  *Political Science* [https://doi.org/10.1080/00323187.2024.2335471](https://doi.org/10.1080/00323187.2024.2335471)
+**Palmer, Alexis** and Arthur Spirling. (2024). "Large Language Models Can Argue in Convincing and Novel Ways About Politics"  *Political Science.* [https://doi.org/10.1080/00323187.2024.2335471](https://doi.org/10.1080/00323187.2024.2335471)
 [Github](https://github.com/ArthurSpirling/LargeLanguageArguments)
 
 <details>
@@ -32,7 +32,7 @@ All politics relies on rhetorical appeals, and the ability to make arguments is 
 
 &nbsp;
 
-Barrie, Chris, **Alexis Palmer**, and Arthur Spirling. (2026). "Replication for Language Models: Problems, Principles, and Best Practice for Political Science." (Conditional Accept at **AJPS**)
+Barrie, Chris, **Alexis Palmer**, and Arthur Spirling. (2026). "Replication for Language Models: Problems, Principles, and Best Practice for Political Science." (Conditional Accept at *AJPS*.)
 [Draft](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf)
 <details>
   <summary>Abstract</summary>
