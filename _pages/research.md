@@ -117,7 +117,7 @@ Other Publications and Book Chapters
 
 
 
-**Palmer, Alexis**, Noah Smith, and Arthur Spirling. (2024). "Using proprietary language models in academic research requires explicit justification." *Natural Computational Science.* [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) 
+**Palmer, Alexis**, Noah Smith, and Arthur Spirling. (2024). "Using proprietary language models in academic research requires explicit justification." *Nature Computational Science.* [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) 
 
 Balluff, Paul, Justin Chun-ting Ho, Johannes B. Gruber, Sean Palicki, **Alexis Palmer**, Luca Rossi, Irina Shklovski, and Chung-hong Chan. (2026). "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research." *Political Communication* [https://doi.org/10.1080/10584609.2026.2618486](https://doi.org/10.1080/10584609.2026.2618486) 
 
